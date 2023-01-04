@@ -1,4 +1,4 @@
 # Util
 
-## Mouse, Wheel Scroll Tols:
+## Mouse, Wheel Scroll Tools:
 - https://mos.caldis.me/
